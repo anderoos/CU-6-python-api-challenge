@@ -21,9 +21,26 @@ We are tasked to create a py script to visualize the weather of 500 cities of va
   * Use Geoapify API to find the first hotel within 10,000m
   * Add hotel name
 ## Conclusions
+### WeatherPy
 * **There is a strong relationship between maxiumum temperature and latitude**
 ![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig1.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig5.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig6.png)
 
+* **There is a weak relationship between relative humidity and latitude**
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig2.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig7.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig8.png)
+
+* **There is a no relationship between cloudiness and latitude**
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig3.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig9.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig10.png)
+
+* **There is a no relationship between wind speed and latitude**
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig4.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig11.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig12.png)
 ## Limitations and recommendations
 
 ## Licensing 
