@@ -21,6 +21,8 @@ We are tasked to create a py script to visualize the weather of 500 cities of va
   * Use Geoapify API to find the first hotel within 10,000m
   * Add hotel name
 ## Conclusions
+* **There is a strong relationship between maxiumum temperature and latitude**
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig1.png)
 
 ## Limitations and recommendations
 
