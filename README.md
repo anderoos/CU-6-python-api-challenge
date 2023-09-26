@@ -43,8 +43,8 @@ We are tasked to create a py script to visualize the weather of 500 cities of va
 ![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig12.png)
 
 ### VacationPy
-![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig4.png)
-![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Fig11.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/City_weather_with_humidity.png)
+![alt-text](https://github.com/anderoos/CU-6-python-api-challenge/blob/main/output_data/Nearby_hotels_sorted_by_ideal_weather.png)
 ## Limitations and recommendations
 
 ## Licensing 
